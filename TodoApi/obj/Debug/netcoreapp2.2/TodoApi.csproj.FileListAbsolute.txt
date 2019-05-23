@@ -1,0 +1,17 @@
+D:\Playground\CoreTest\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.deps.json
+D:\Playground\CoreTest\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.json
+D:\Playground\CoreTest\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.dev.json
+D:\Playground\CoreTest\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.dll
+D:\Playground\CoreTest\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.pdb
+D:\Playground\CoreTest\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csproj.CoreCompileInputs.cache
+D:\Playground\CoreTest\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cache
+D:\Playground\CoreTest\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cs
+D:\Playground\CoreTest\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfoInputs.cache
+D:\Playground\CoreTest\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfo.cs
+D:\Playground\CoreTest\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
+D:\Playground\CoreTest\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
+D:\Playground\CoreTest\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb
+D:\Playground\CoreTest\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csprojAssemblyReference.cache
+D:\Playground\CoreTest\TodoApi\bin\Debug\netcoreapp2.2\ExLibrary.dll
+D:\Playground\CoreTest\TodoApi\bin\Debug\netcoreapp2.2\ExLibrary.pdb
+D:\Playground\CoreTest\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csproj.CopyComplete
